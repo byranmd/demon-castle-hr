@@ -1,0 +1,12 @@
+Talent tree icons from game-icons.net, licensed under CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+Source: https://github.com/game-icons/icons
+
+Icons made by:
+- Lorc (http://lorcblog.blogspot.com): swap-bag, cash, scroll-unfurled, hourglass
+- Delapouite (http://delapouite.com): desk, id-card, graduate-cap, brick-wall, coffee-cup
+- Sbed (http://opengameart.org/content/95-game-icons): wrench, help, shield
+- Skoll: open-treasure-chest
+- Andy Meneely (http://www.se.rit.edu/~andy/): police-badge
+
+Colour is applied in the game (fill: currentColor); the shapes are unchanged.
